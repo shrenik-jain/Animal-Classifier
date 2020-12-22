@@ -1,2 +1,2 @@
-# Kaggle-Cats-vs-Dogs-Classifier
-A Convolutional Neural Network which classifies a cat from a dog
+# Animal-Classifier
+A Tensorflow implementation undertaken for classification of various images into a dog or a cat.
